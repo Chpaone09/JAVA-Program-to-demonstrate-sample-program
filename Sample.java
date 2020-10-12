@@ -8,7 +8,7 @@ Date    : Oct 10, 2020
 ************************************************************
 */
 
-class Sample{
+public class Sample{
     public static void main(String[] args){
         System.out.println("\n\n\t Hello World");
     }
